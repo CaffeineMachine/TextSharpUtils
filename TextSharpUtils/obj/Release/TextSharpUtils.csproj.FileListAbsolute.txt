@@ -1,0 +1,9 @@
+c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TextSharpUtils\bin\Release\Libraries\itextsharp.dll
+c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TextSharpUtils\bin\Release\TextSharpUtils.exe
+c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TextSharpUtils\bin\Release\TextSharpUtils.pdb
+c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TextSharpUtils\bin\Release\itextsharp.dll
+c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TextSharpUtils\bin\Release\TS.Utilities.dll
+c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TextSharpUtils\bin\Release\TS.Utilities.pdb
+c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TextSharpUtils\obj\Release\TextSharpUtils.csprojResolveAssemblyReference.cache
+c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TextSharpUtils\obj\Release\TextSharpUtils.exe
+c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TextSharpUtils\obj\Release\TextSharpUtils.pdb

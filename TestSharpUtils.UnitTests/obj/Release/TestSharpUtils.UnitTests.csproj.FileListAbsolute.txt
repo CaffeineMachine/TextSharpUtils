@@ -1,0 +1,15 @@
+c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TestSharpUtils.UnitTests\bin\Release\Libraries\acknowledgements.txt
+c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TestSharpUtils.UnitTests\bin\Release\Libraries\license.txt
+c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TestSharpUtils.UnitTests\bin\Release\Libraries\nunit.framework.dll
+c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TestSharpUtils.UnitTests\bin\Release\Libraries\Rhino.Mocks.dll
+c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TestSharpUtils.UnitTests\bin\Release\TestFiles\CHAPTER1.GENERALPROVISIONS736.pdf
+c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TestSharpUtils.UnitTests\bin\Release\TestSharpUtils.UnitTests.dll
+c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TestSharpUtils.UnitTests\bin\Release\TestSharpUtils.UnitTests.pdb
+c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TestSharpUtils.UnitTests\bin\Release\nunit.framework.dll
+c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TestSharpUtils.UnitTests\bin\Release\Rhino.Mocks.dll
+c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TestSharpUtils.UnitTests\bin\Release\TS.Utilities.dll
+c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TestSharpUtils.UnitTests\bin\Release\itextsharp.dll
+c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TestSharpUtils.UnitTests\bin\Release\TS.Utilities.pdb
+c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TestSharpUtils.UnitTests\obj\Release\TestSharpUtils.UnitTests.csprojResolveAssemblyReference.cache
+c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TestSharpUtils.UnitTests\obj\Release\TestSharpUtils.UnitTests.dll
+c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TestSharpUtils.UnitTests\obj\Release\TestSharpUtils.UnitTests.pdb
