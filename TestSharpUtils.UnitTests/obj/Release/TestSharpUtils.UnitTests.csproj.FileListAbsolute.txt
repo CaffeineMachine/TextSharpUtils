@@ -13,3 +13,21 @@ c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TestSharpU
 c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TestSharpUtils.UnitTests\obj\Release\TestSharpUtils.UnitTests.csprojResolveAssemblyReference.cache
 c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TestSharpUtils.UnitTests\obj\Release\TestSharpUtils.UnitTests.dll
 c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TestSharpUtils.UnitTests\obj\Release\TestSharpUtils.UnitTests.pdb
+C:\Users\LISSABF\Documents\GitHub\TextSharpUtils\TestSharpUtils.UnitTests\bin\Release\Libraries\itextsharp.dll
+C:\Users\LISSABF\Documents\GitHub\TextSharpUtils\TestSharpUtils.UnitTests\bin\Release\Libraries\acknowledgements.txt
+C:\Users\LISSABF\Documents\GitHub\TextSharpUtils\TestSharpUtils.UnitTests\bin\Release\Libraries\license.txt
+C:\Users\LISSABF\Documents\GitHub\TextSharpUtils\TestSharpUtils.UnitTests\bin\Release\Libraries\nunit.framework.dll
+C:\Users\LISSABF\Documents\GitHub\TextSharpUtils\TestSharpUtils.UnitTests\bin\Release\Libraries\Rhino.Mocks.dll
+C:\Users\LISSABF\Documents\GitHub\TextSharpUtils\TestSharpUtils.UnitTests\bin\Release\TestFiles\CHAPTER1.GENERALPROVISIONS736.pdf
+C:\Users\LISSABF\Documents\GitHub\TextSharpUtils\TestSharpUtils.UnitTests\bin\Release\TestSharpUtils.UnitTests.dll
+C:\Users\LISSABF\Documents\GitHub\TextSharpUtils\TestSharpUtils.UnitTests\bin\Release\TestSharpUtils.UnitTests.pdb
+C:\Users\LISSABF\Documents\GitHub\TextSharpUtils\TestSharpUtils.UnitTests\bin\Release\itextsharp.dll
+C:\Users\LISSABF\Documents\GitHub\TextSharpUtils\TestSharpUtils.UnitTests\bin\Release\nunit.framework.dll
+C:\Users\LISSABF\Documents\GitHub\TextSharpUtils\TestSharpUtils.UnitTests\bin\Release\Rhino.Mocks.dll
+C:\Users\LISSABF\Documents\GitHub\TextSharpUtils\TestSharpUtils.UnitTests\bin\Release\TS.Interfaces.dll
+C:\Users\LISSABF\Documents\GitHub\TextSharpUtils\TestSharpUtils.UnitTests\bin\Release\TS.Utilities.dll
+C:\Users\LISSABF\Documents\GitHub\TextSharpUtils\TestSharpUtils.UnitTests\bin\Release\TS.Interfaces.pdb
+C:\Users\LISSABF\Documents\GitHub\TextSharpUtils\TestSharpUtils.UnitTests\bin\Release\TS.Utilities.pdb
+C:\Users\LISSABF\Documents\GitHub\TextSharpUtils\TestSharpUtils.UnitTests\obj\Release\TestSharpUtils.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\LISSABF\Documents\GitHub\TextSharpUtils\TestSharpUtils.UnitTests\obj\Release\TestSharpUtils.UnitTests.dll
+C:\Users\LISSABF\Documents\GitHub\TextSharpUtils\TestSharpUtils.UnitTests\obj\Release\TestSharpUtils.UnitTests.pdb

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TS.Utilities", "TS.Utilitie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSharpUtils.UnitTests", "TestSharpUtils.UnitTests\TestSharpUtils.UnitTests.csproj", "{BB5ED0F2-1501-43AB-95BE-F1C9FA628FB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TS.Interfaces", "TS.Interfaces\TS.Interfaces.csproj", "{C432A690-7D82-44CB-887E-D75AAEE1A413}"
+EndProject
 Global
 	GlobalSection(SubversionScc) = preSolution
 		Svn-Managed = True
@@ -29,6 +31,10 @@ Global
 		{BB5ED0F2-1501-43AB-95BE-F1C9FA628FB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB5ED0F2-1501-43AB-95BE-F1C9FA628FB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB5ED0F2-1501-43AB-95BE-F1C9FA628FB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C432A690-7D82-44CB-887E-D75AAEE1A413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C432A690-7D82-44CB-887E-D75AAEE1A413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C432A690-7D82-44CB-887E-D75AAEE1A413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C432A690-7D82-44CB-887E-D75AAEE1A413}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

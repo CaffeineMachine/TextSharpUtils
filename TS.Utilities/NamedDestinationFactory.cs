@@ -1,36 +1,24 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
+using TS.Interfaces;
 using iTextSharp.text.pdf;
 
 namespace TS.Utilities
 {
-    public sealed class NamedDestinationFactory
+    public class NamedDestinationFactory : INamedDestinationFactory
     {
-        private static volatile NamedDestinationFactory _instance;
-        private static readonly object SyncRoot = new object();
+        private readonly IUniqueNameProvider _nameProvider;
+        public NamedDestinationFactory(IUniqueNameProvider nameProvider)
+        {
+            _nameProvider = nameProvider;
+        }
 
-        private NamedDestinationFactory()
+        public NamedDestinationFactory() : this(new DefaultNameProvider())
         {
         }
 
-        public static NamedDestinationFactory Instance
-        {
-            get
-            {
-                if (_instance == null)
-                {
-                    lock (SyncRoot)
-                    {
-                        if (_instance == null)
-                            _instance = new NamedDestinationFactory();
-                    }
-                }
-                return _instance;
-            }
-        }
-
-        public NamedDestinationImpl CreateNamedInstanceFor(Dictionary<string, object> iDestination)
+        public INamedDestination CreateNamedInstanceFor(Dictionary<string, object> iDestination)
         {
             // TODO: Either verify that these settings are okay by default, or make them configuration injectable.
             var uniqueIdentifier = Guid.NewGuid().ToString().Replace("-", string.Empty);
@@ -39,7 +27,7 @@ namespace TS.Utilities
             var type = 0;
             if (iDestination.ContainsKey("Title"))
             {
-                var title = Regex.Replace(iDestination["Title"].ToString(), @"[\W_]", string.Empty);
+                var title = _nameProvider.GetName(iDestination["Title"].ToString());
                 if (!string.IsNullOrEmpty(title))
                 {
                     uniqueIdentifier = title;
@@ -90,7 +78,7 @@ namespace TS.Utilities
         }
     }
 
-    public class NamedDestinationImpl
+    public class NamedDestinationImpl : INamedDestination
     {
         public NamedDestinationImpl(string name, int page, PdfDestination destination)
         {

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<module name="typeMapping">
+  <bind service="TS.Interfaces.INamedDestinationFactory, TS.Interfaces"
+        to="TS.Utilities.NamedDestinationFactory, TS.Utilities"
+        scope="singleton">
+    <metadata key="class" value="namedDestinationFactory" />
+  </bind>
+  <bind service="TS.Interfaces.INamedDestination, TS.Interfaces"
+      to="TS.Utilities.NamedDestinationImpl, TS.Utilities">
+    <metadata key="class" value="namedDestination" />
+  </bind>
+  <bind service="TS.Interfaces.IBookmarkDuplicator, TS.Interfaces"
+     to="TS.Utilities.BookmarkDuplicator, TS.Utilities"
+        scope="singleton">
+    <metadata key="class" value="bookmarkDuplicator" />
+  </bind>
+</module>

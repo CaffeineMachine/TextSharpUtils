@@ -1,5 +1,6 @@
 ﻿using System;
-using TS.Utilities;
+using Ninject;
+using TS.Interfaces;
 
 namespace TextSharpUtils
 {
@@ -16,10 +17,13 @@ namespace TextSharpUtils
                 Console.WriteLine("SYNOPSIS");
                 Console.WriteLine("     TextShaprUtils [inputfilepath]");
                 Console.WriteLine("DESCRIPTION");
-                Console.WriteLine("     Running this program will create a copy of the input file, except the name will be appended with -2.pdf");
+                Console.WriteLine("     Running this program will create a copy of the input file, except the name will be appended with -2.pdf.");
+                Console.WriteLine("Type configurations can be configured via the TypeMapping.xml file.");
                 return;
             }
-            var bd = new BookmarkDuplicator();
+            var kernel = new StandardKernel();
+            kernel.Load("TypeMapping.xml");
+            var bd = kernel.Get<IBookmarkDuplicator>();
             var document = args[0];
             bd.DuplicateBookmarksToDestinations(document);
         }

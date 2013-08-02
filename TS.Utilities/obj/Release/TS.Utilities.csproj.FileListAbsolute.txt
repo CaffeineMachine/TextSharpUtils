@@ -4,3 +4,12 @@ c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TS.Utiliti
 c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TS.Utilities\obj\Release\TS.Utilities.dll
 c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TS.Utilities\obj\Release\TS.Utilities.pdb
 c:\users\lissabf\documents\visual studio 2012\Projects\TextSharpUtils\TS.Utilities\obj\Release\TS.Utilities.csprojResolveAssemblyReference.cache
+C:\Users\LISSABF\Documents\GitHub\TextSharpUtils\TS.Utilities\bin\Release\Libraries\itextsharp.dll
+C:\Users\LISSABF\Documents\GitHub\TextSharpUtils\TS.Utilities\bin\Release\TS.Utilities.dll
+C:\Users\LISSABF\Documents\GitHub\TextSharpUtils\TS.Utilities\bin\Release\TS.Utilities.pdb
+C:\Users\LISSABF\Documents\GitHub\TextSharpUtils\TS.Utilities\bin\Release\itextsharp.dll
+C:\Users\LISSABF\Documents\GitHub\TextSharpUtils\TS.Utilities\bin\Release\TS.Interfaces.dll
+C:\Users\LISSABF\Documents\GitHub\TextSharpUtils\TS.Utilities\bin\Release\TS.Interfaces.pdb
+C:\Users\LISSABF\Documents\GitHub\TextSharpUtils\TS.Utilities\obj\Release\TS.Utilities.csprojResolveAssemblyReference.cache
+C:\Users\LISSABF\Documents\GitHub\TextSharpUtils\TS.Utilities\obj\Release\TS.Utilities.dll
+C:\Users\LISSABF\Documents\GitHub\TextSharpUtils\TS.Utilities\obj\Release\TS.Utilities.pdb

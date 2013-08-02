@@ -46,6 +46,12 @@
     <Compile Include="NamedDestinationFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TS.Interfaces\TS.Interfaces.csproj">
+      <Project>{C432A690-7D82-44CB-887E-D75AAEE1A413}</Project>
+      <Name>TS.Interfaces</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

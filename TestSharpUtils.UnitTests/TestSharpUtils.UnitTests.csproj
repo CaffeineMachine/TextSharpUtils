@@ -75,6 +75,10 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\TS.Interfaces\TS.Interfaces.csproj">
+      <Project>{C432A690-7D82-44CB-887E-D75AAEE1A413}</Project>
+      <Name>TS.Interfaces</Name>
+    </ProjectReference>
     <ProjectReference Include="..\TS.Utilities\TS.Utilities.csproj">
       <Project>{26459371-E538-4085-95CA-0FF9918CC732}</Project>
       <Name>TS.Utilities</Name>
